@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/likhithaap](https://github.com/likhithaap)
 
-- 📝 I regularly write articles on [https://medium.com/@likhiparuchuri132](https://medium.com/@likhiparuchuri132)
-
 - 💬 Ask me about **Computer vision, object detection**
 
 - 📫 How to reach me **likhiparuchuri132@gmail.com**
-
-- 📄 Know about my experiences [https://medium.com/@likhiparuchuri132](https://medium.com/@likhiparuchuri132)
 
 - ⚡ Fun fact **I can hit those high notes and low tones as a singer!**
 
