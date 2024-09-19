@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Generative AI, LLM'S**
 
-- 👨‍💻 All of my projects are available at [https://github.com/likhithaap](https://github.com/likhithaap)
-
-- 💬 Ask me about **Computer vision, object detection**
+- 💬 Ask me about **Computer vision, object detection, Machine learning**
 
 - 📫 How to reach me **likhiparuchuri132@gmail.com**
 
